@@ -2,10 +2,10 @@
 A utility script to observe and identify a page load's completion; implemented using the [MutationObserver API](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver).
 ## Use-cases
 ### Component loading
-There are four components on the page. The load order of these components are managed based on business cases.
+Assume that there are four components on the page. The load order of these components are managed based on business cases.
 To validate their loading order, this script will notify first loaded component. 
 ### Third-party service validations
-A chat box from a third-party service is used on a page. The chat box needs to be observed for interaction and potentially errors. 
+Assume that a third-party service is used on a page (like a live chat box). This service needs to be observed for interaction and potentially errors. 
 This script will observe the chat box and notify if it loads or errors out.
 ## Thats sweet! How do I use it?
 ### Component mechanics (logic)
