@@ -1,5 +1,5 @@
 # Page-Load-Completion-Observer
-A utility script to observe and identify a page load's completion; implemented using the MutationObserver API.
+A utility script to observe and identify a page load's completion; implemented using the [MutationObserver API](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver).
 ## Use-cases
 ### Component loading
 There are four components on the page. The load order of these components are managed based on business cases.
