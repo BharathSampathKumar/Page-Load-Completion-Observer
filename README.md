@@ -15,4 +15,4 @@ The content can be any of: 1) text 2) element 3) image
 Once all the expected content(s) is/are found, the component will be assumed to have "loaded".
 Once all components are loaded, the page will be declared as loaded.
 ### Example:
-See [this](https://github.com/BharathSampathKumar/Page-Load-Completion-Observer/commit/54c808395793799587771268fc4517428723b569) with in-line descriptors.
+See [this](https://github.com/BharathSampathKumar/Page-Load-Completion-Observer/blob/master/Tealeaf_init_v2%20(current%20with%20doc).js) with in-line descriptors.
